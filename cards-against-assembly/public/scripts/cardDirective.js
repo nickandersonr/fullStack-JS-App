@@ -1,3 +1,5 @@
+console.log("public/scripts/cardDirective.js, standing by!");
+
 angular.module('CardsAgainstAssembly')
   .directive('wdiCard', wdiCard);
 
